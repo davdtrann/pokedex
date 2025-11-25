@@ -8,6 +8,7 @@ function showMenu() {
     console.log('\n3. Move')
 }
 
+
 function run() {
     showMenu();
     
